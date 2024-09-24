@@ -6,7 +6,7 @@
     - Arquitecturas.
     - Resultados de aproximación universal.
     - Descenso de gradiente estocástico.
-    - Tutoriales.
+    - Tutoriales en PyTorch.
  
 * Sesión 2: Aplicaciones.
     - Physics Informed Neural Networks (PINNs): más allá de la información de los datos.
