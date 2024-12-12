@@ -16,7 +16,7 @@ Las actividades prácticas se desarrollarán en PyTorch, por lo que se recomiend
     - Tutoriales en PyTorch: creación de redes neuronales feedforward, visualización de aproximación y de optimización vía redes suficientemente anchas con descenso de gradiente estocástico. Aplicación a clasificación de imágenes y motivación de redes neuronales convolucionales.
  
 * Sesión 2: Redes neuronales convolucionales. **[ [Notebook](https://colab.research.google.com/drive/134XhVdg2S0wURfheKPjQmuN_FXKax3us?usp=sharing) ] [ [Slides](https://colab.research.google.com/drive/111KBDu5xadyCN5pge4GbJYVnG5faweR_?usp=sharing) ]**
-    - 
+    - CNN
  
 * Sesión 3: Todo es una red neuronal feedforward. **[ [Notebook](https://colab.research.google.com/drive/134XhVdg2S0wURfheKPjQmuN_FXKax3us?usp=sharing) ] [ [Slides](https://colab.research.google.com/drive/111KBDu5xadyCN5pge4GbJYVnG5faweR_?usp=sharing) ]**
     - Physics Informed Neural Networks (PINNs): más allá de la información de los datos. Resultados teóricos para EDO.
