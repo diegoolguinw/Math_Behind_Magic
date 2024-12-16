@@ -8,7 +8,7 @@ Se combinarán discusiones teóricas con tutoriales prácticos, enfocándose en 
 
 Las actividades prácticas se desarrollarán en PyTorch, por lo que se recomienda tener conocimientos intermedios de Python. Todo el trabajo de programación se realizará en la nube, por lo que no será necesario instalar ningún software para las sesiones. Además, se abordarán aspectos técnicos como GitHub y el uso de GPU, sin requerir experiencia previa.
 
-* Sesión 1: Red neuronal feedforward. **[ [Google Colab](https://colab.research.google.com/drive/111KBDu5xadyCN5pge4GbJYVnG5faweR_?usp=sharing) ] [ [Notebook](https://colab.research.google.com/drive/111KBDu5xadyCN5pge4GbJYVnG5faweR_?usp=sharing) ] [ [Slides](https://colab.research.google.com/drive/111KBDu5xadyCN5pge4GbJYVnG5faweR_?usp=sharing) ]**
+* Sesión 1: Red neuronal feedforward. **[ [Google Colab](https://colab.research.google.com/drive/111KBDu5xadyCN5pge4GbJYVnG5faweR_?usp=sharing) ] [ [Notebook](https://github.com/diegoolguinw/Math_Behind_Magic/blob/main/Notebooks/Sesi%C3%B3n%201.ipynb) ] [ [Slides](https://github.com/diegoolguinw/Math_Behind_Magic/blob/main/Slides/Sesi%C3%B3n%201.pdf) ]**
     - Problema de aprendizaje y solución para problema de regresión.
     - Definición de una red neuronal feedforward.
     - Teorema de aproximación universal.
