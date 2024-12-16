@@ -16,10 +16,13 @@ Las actividades prácticas se desarrollarán en PyTorch, por lo que se recomiend
     - Tutoriales en PyTorch: creación de redes neuronales feedforward, visualización de aproximación y de optimización vía redes suficientemente anchas con descenso de gradiente estocástico. Aplicación a clasificación de imágenes y motivación de redes neuronales convolucionales.
  
 * Sesión 2: Redes neuronales convolucionales. **[ [Google Colab](!Coming soon!) ] [ [Notebook](¡Coming soon!) ] [ [Slides](¡Coming soon!) ]**
-    - CNN
+    - El problema de entrenar redes neuronales con SGD: underfitting, overfitting, entre otros. ¿Cómo detectar estos problemas, cómo solucionarlos?
+    - Redes neuronales convolucionales (CNN): reduciendo el overfitting con un cambio de arquitectura.
+    - Aspectos teóricos de las CNN y redes equivariantes.
+    - Tutoriales en PyTorch: Visualizando el underfitting y el overfitting. Regularización L2, Dropout y Batch Normalization. Ejemplo de aplicación de redes neuronales convolucionales.
  
 * Sesión 3: Todo es una red neuronal feedforward. **[ [Google Colab](!Coming soon!) ] [ [Notebook](¡Coming soon!)  ] [ [Slides](¡Coming soon!) ]**
     - Physics Informed Neural Networks (PINNs): más allá de la información de los datos. Resultados teóricos para EDO.
     - DeepONets: una red para dominar muchas ecuaciones. Teorema de aproximación universal para operadores.
     - Generative Adversarial Networks: el comienzo de la inteligencia artificial generativa.
-    - Tutoriales en PyTorch: aplicación de PINNs a un modelo de EDO en epidemiología, estimación de parámetros y *peak* de contagios. Aplicación de DeepONet para crear un red neuronal que actúa como integrador.
+    - Tutoriales en PyTorch: aplicación de PINNs a un modelo de EDO en epidemiología y estimación de parámetros. Aplicación de DeepONet para crear un red neuronal que actúa como integrador.
