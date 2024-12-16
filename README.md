@@ -8,17 +8,17 @@ Se combinarán discusiones teóricas con tutoriales prácticos, enfocándose en 
 
 Las actividades prácticas se desarrollarán en PyTorch, por lo que se recomienda tener conocimientos intermedios de Python. Todo el trabajo de programación se realizará en la nube, por lo que no será necesario instalar ningún software para las sesiones. Además, se abordarán aspectos técnicos como GitHub y el uso de GPU, sin requerir experiencia previa.
 
-* Sesión 1: Red neuronal feedforward. **[ [Notebook](https://colab.research.google.com/drive/111KBDu5xadyCN5pge4GbJYVnG5faweR_?usp=sharing) ] [ [Slides](https://colab.research.google.com/drive/111KBDu5xadyCN5pge4GbJYVnG5faweR_?usp=sharing) ]**
+* Sesión 1: Red neuronal feedforward. **[ [Google Colab](https://colab.research.google.com/drive/111KBDu5xadyCN5pge4GbJYVnG5faweR_?usp=sharing) ] [ [Notebook](https://colab.research.google.com/drive/111KBDu5xadyCN5pge4GbJYVnG5faweR_?usp=sharing) ] [ [Slides](https://colab.research.google.com/drive/111KBDu5xadyCN5pge4GbJYVnG5faweR_?usp=sharing) ]**
     - Problema de aprendizaje y solución para problema de regresión.
     - Definición de una red neuronal feedforward.
     - Teorema de aproximación universal.
     - Descenso de gradiente estocástico.
     - Tutoriales en PyTorch: creación de redes neuronales feedforward, visualización de aproximación y de optimización vía redes suficientemente anchas con descenso de gradiente estocástico. Aplicación a clasificación de imágenes y motivación de redes neuronales convolucionales.
  
-* Sesión 2: Redes neuronales convolucionales. **[ [Notebook](https://colab.research.google.com/drive/134XhVdg2S0wURfheKPjQmuN_FXKax3us?usp=sharing) ] [ [Slides](https://colab.research.google.com/drive/111KBDu5xadyCN5pge4GbJYVnG5faweR_?usp=sharing) ]**
+* Sesión 2: Redes neuronales convolucionales. **[ [Google Colab](!Coming soon!) ] [ [Notebook](¡Coming soon!) ] [ [Slides](¡Coming soon!) ]**
     - CNN
  
-* Sesión 3: Todo es una red neuronal feedforward. **[ [Notebook](https://colab.research.google.com/drive/134XhVdg2S0wURfheKPjQmuN_FXKax3us?usp=sharing) ] [ [Slides](https://colab.research.google.com/drive/111KBDu5xadyCN5pge4GbJYVnG5faweR_?usp=sharing) ]**
+* Sesión 3: Todo es una red neuronal feedforward. **[ [Google Colab](!Coming soon!) ] [ [Notebook](¡Coming soon!)  ] [ [Slides](¡Coming soon!) ]**
     - Physics Informed Neural Networks (PINNs): más allá de la información de los datos. Resultados teóricos para EDO.
     - DeepONets: una red para dominar muchas ecuaciones. Teorema de aproximación universal para operadores.
     - Generative Adversarial Networks: el comienzo de la inteligencia artificial generativa.
