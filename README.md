@@ -15,10 +15,10 @@ Las actividades prácticas se desarrollarán en PyTorch, por lo que se recomiend
     - Descenso de gradiente estocástico.
     - Tutoriales en PyTorch: creación de redes neuronales feedforward, visualización de aproximación y de optimización vía redes suficientemente anchas con descenso de gradiente estocástico. Aplicación a clasificación de imágenes y motivación de redes neuronales convolucionales.
  
-* Sesión 2: Redes neuronales convolucionales. **[ [Notebook](https://colab.research.google.com/drive/134XhVdg2S0wURfheKPjQmuN_FXKax3us?usp=sharing) ] [ [Slides](https://colab.research.google.com/drive/111KBDu5xadyCN5pge4GbJYVnG5faweR_?usp=sharing) ]**
+* Sesión 2: Redes neuronales convolucionales. **[ [Notebook](¡Coming soon!) ] [ [Slides](¡Coming soon!) ]**
     - CNN
  
-* Sesión 3: Todo es una red neuronal feedforward. **[ [Notebook](https://colab.research.google.com/drive/134XhVdg2S0wURfheKPjQmuN_FXKax3us?usp=sharing) ] [ [Slides](https://colab.research.google.com/drive/111KBDu5xadyCN5pge4GbJYVnG5faweR_?usp=sharing) ]**
+* Sesión 3: Todo es una red neuronal feedforward. **[ [Notebook](¡Coming soon!)  ] [ [Slides](¡Coming soon!) ]**
     - Physics Informed Neural Networks (PINNs): más allá de la información de los datos. Resultados teóricos para EDO.
     - DeepONets: una red para dominar muchas ecuaciones. Teorema de aproximación universal para operadores.
     - Generative Adversarial Networks: el comienzo de la inteligencia artificial generativa.
