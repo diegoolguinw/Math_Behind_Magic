@@ -25,4 +25,4 @@ Las actividades prácticas se desarrollarán en PyTorch, por lo que se recomiend
     - Physics Informed Neural Networks (PINNs): más allá de la información de los datos. Resultados teóricos para EDO.
     - DeepONets: una red para dominar muchas ecuaciones. Teorema de aproximación universal para operadores.
     - Generative Adversarial Networks: el comienzo de la inteligencia artificial generativa.
-    - Tutoriales en PyTorch: aplicación de PINNs a un modelo de EDO en epidemiología y estimación de parámetros. Aplicación de DeepONet para crear un red neuronal que actúa como integrador.
+    - Tutoriales en PyTorch: aplicación de PINNs a un modelo de EDO en epidemiología y estimación de parámetros. Aplicación de DeepONet para crear un red neuronal que actúa como integrador. Ejemplo de una GAN que aproxima una distribución de probabilidad Gaussiana y su relación con MCMC. Ejemplo de GAN para generación de imágenes con MNIST.
