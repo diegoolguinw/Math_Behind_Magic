@@ -15,7 +15,7 @@ Las actividades prácticas se desarrollarán en PyTorch, por lo que se recomiend
     - Descenso de gradiente estocástico.
     - Tutoriales en PyTorch: creación de redes neuronales feedforward, visualización de aproximación y de optimización vía redes suficientemente anchas con descenso de gradiente estocástico. Aplicación a clasificación de imágenes y motivación de redes neuronales convolucionales.
  
-* Sesión 2: Redes neuronales convolucionales. **[ [Google Colab](https://colab.research.google.com/drive/1Z5xoo9sP6gu--kZ7TGJR70TsrpNecsyT?usp=sharing) ] [ [Notebook](¡Coming soon!) ] [ [Slides](¡Coming soon!) ]**
+* Sesión 2: Redes neuronales convolucionales. **[ [Google Colab](https://colab.research.google.com/drive/1Z5xoo9sP6gu--kZ7TGJR70TsrpNecsyT?usp=sharing) ] [ [Notebook](https://github.com/diegoolguinw/Math_Behind_Magic/blob/main/Notebooks/Sesi%C3%B3n%202.ipynb) ] [ [Slides](https://github.com/diegoolguinw/Math_Behind_Magic/blob/main/Slides/Sesi%C3%B3n%202.pdf) ]**
     - El problema de entrenar redes neuronales con SGD: underfitting, overfitting, entre otros. ¿Cómo detectar estos problemas, cómo solucionarlos?
     - Redes neuronales convolucionales (CNN): reduciendo el overfitting con un cambio de arquitectura.
     - Aspectos teóricos de las CNN y redes equivariantes.
