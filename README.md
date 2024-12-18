@@ -21,7 +21,7 @@ Las actividades prácticas se desarrollarán en PyTorch, por lo que se recomiend
     - Aspectos teóricos de las CNN y redes equivariantes.
     - Tutoriales en PyTorch: Visualizando el underfitting y el overfitting. Regularización L2, Dropout y Batch Normalization. Ejemplo de aplicación de redes neuronales convolucionales.
  
-* Sesión 3: Todo es una red neuronal feedforward. **[ [Google Colab](!Coming soon!) ] [ [Notebook](¡Coming soon!)  ] [ [Slides](¡Coming soon!) ]**
+* Sesión 3: Todo es una red neuronal feedforward. **[ [Google Colab](https://colab.research.google.com/drive/134XhVdg2S0wURfheKPjQmuN_FXKax3us?usp=sharing) ] [ [Notebook](https://github.com/diegoolguinw/Math_Behind_Magic/blob/main/Notebooks/Sesi%C3%B3n%203.ipynb)  ] [ [Slides]([¡Coming soon!](https://github.com/diegoolguinw/Math_Behind_Magic/blob/main/Slides/Sesi%C3%B3n%203.pdf)) ]**
     - Physics Informed Neural Networks (PINNs): más allá de la información de los datos. Resultados teóricos para EDO.
     - DeepONets: una red para dominar muchas ecuaciones. Teorema de aproximación universal para operadores.
     - Generative Adversarial Networks: el comienzo de la inteligencia artificial generativa.
